@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Savannah Scott</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Savannah Scott</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>sscott35@gmu.edu (Savannah Scott)</managingEditor>
+    <webMaster>sscott35@gmu.edu (Savannah Scott)</webMaster>
+    <copyright>© 2025 Savannah Scott</copyright>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Out and About in Old Town</title>
+      <link>http://localhost:1313/projects/outabout/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>sscott35@gmu.edu (Savannah Scott)</author>
+      <guid>http://localhost:1313/projects/outabout/</guid>
+      <description>Project Description: This project explores local queer history in Northern Virginia.</description>
+      
+    </item>
+    
+    <item>
+      <title>Sustainability</title>
+      <link>http://localhost:1313/projects/sustainabilty/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>sscott35@gmu.edu (Savannah Scott)</author>
+      <guid>http://localhost:1313/projects/sustainabilty/</guid>
+      <description>Project Description: In summer 2025, I joined the sustainability team at RRCHNM.</description>
+      
+    </item>
+    
+    <item>
+      <title>Death By Numbers</title>
+      <link>http://localhost:1313/projects/deathbynumbers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>sscott35@gmu.edu (Savannah Scott)</author>
+      <guid>http://localhost:1313/projects/deathbynumbers/</guid>
+      <description>Project Description: Death by Numbers is a Collaborators: RRCHNM</description>
+      
+    </item>
+    
+    <item>
+      <title>The Denig Manuscript</title>
+      <link>http://localhost:1313/projects/denig/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>sscott35@gmu.edu (Savannah Scott)</author>
+      <guid>http://localhost:1313/projects/denig/</guid>
+      <description>Project Description: Collaborators: RRCHNM</description>
+      
+    </item>
+    
+    <item>
+      <title>American World War II Heritage Cities</title>
+      <link>http://localhost:1313/projects/heritagecities/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>sscott35@gmu.edu (Savannah Scott)</author>
+      <guid>http://localhost:1313/projects/heritagecities/</guid>
+      <description>Project Description: Collaborators: National PArks Service</description>
+      
+    </item>
+    
+    <item>
+      <title>American Religious Ecologies</title>
+      <link>http://localhost:1313/projects/religiousecologies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>sscott35@gmu.edu (Savannah Scott)</author>
+      <guid>http://localhost:1313/projects/religiousecologies/</guid>
+      <description>Project Description: Collaborators: RRCHNM</description>
+      
+    </item>
+    
+    <item>
+      <title>World History Commons</title>
+      <link>http://localhost:1313/projects/worldhistorycommons/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>sscott35@gmu.edu (Savannah Scott)</author>
+      <guid>http://localhost:1313/projects/worldhistorycommons/</guid>
+      <description>Project Description: Collaborators: RRCHNM</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>sscott35@gmu.edu (Savannah Scott)</author>
+      <guid>http://localhost:1313/about/</guid>
+      <description>About Me I am a PhD student in History at George Mason University.</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>sscott35@gmu.edu (Savannah Scott)</author>
+      <guid>http://localhost:1313/cv/</guid>
+      <description>Curriculum Vitae CV has been abreviated for space.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
