@@ -1,0 +1,4 @@
+#main-content .list-card-container {
+  mask-image: none;
+  -webkit-mask-image: none;
+}

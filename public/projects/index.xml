@@ -8,7 +8,7 @@
     <language>en</language>
     <managingEditor>sscott35@gmu.edu (Savannah Scott)</managingEditor>
     <webMaster>sscott35@gmu.edu (Savannah Scott)</webMaster>
-    <copyright>© 2025 Savannah Scott</copyright>
+    <copyright>© 2026 Savannah Scott</copyright>
     <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -37,7 +37,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>sscott35@gmu.edu (Savannah Scott)</author>
       <guid>http://localhost:1313/projects/deathbynumbers/</guid>
-      <description>Project Description: Death by Numbers is a Collaborators: RRCHNM</description>
+      <description>Project Description: Death by Numbers studies the Bills of Mortality, 17th century broadsides which published plague deaths in London.</description>
       
     </item>
     
@@ -47,27 +47,17 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>sscott35@gmu.edu (Savannah Scott)</author>
       <guid>http://localhost:1313/projects/denig/</guid>
-      <description>Project Description: Collaborators: RRCHNM</description>
+      <description>Project Description: The Denig Manuscript explores the manuscript and watercolor paintings of Ludwig Denig (1755-1830), a shoemaker and apothecary living in Pennsylvania during the colonial and revolutionary eras.</description>
       
     </item>
     
     <item>
-      <title>American World War II Heritage Cities</title>
+      <title>American World War II Heritage Cities Program</title>
       <link>http://localhost:1313/projects/heritagecities/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>sscott35@gmu.edu (Savannah Scott)</author>
       <guid>http://localhost:1313/projects/heritagecities/</guid>
-      <description>Project Description: Collaborators: National PArks Service</description>
-      
-    </item>
-    
-    <item>
-      <title>American Religious Ecologies</title>
-      <link>http://localhost:1313/projects/religiousecologies/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>sscott35@gmu.edu (Savannah Scott)</author>
-      <guid>http://localhost:1313/projects/religiousecologies/</guid>
-      <description>Project Description: Collaborators: RRCHNM</description>
+      <description>Project Description: The American World War II Heritage Cities Program is a National Parks Service iniative that recognizes the contributions of everyday Americans to the homefront effort during World War II.</description>
       
     </item>
     
@@ -77,7 +67,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>sscott35@gmu.edu (Savannah Scott)</author>
       <guid>http://localhost:1313/projects/worldhistorycommons/</guid>
-      <description>Project Description: Collaborators: RRCHNM</description>
+      <description>Project Description: World History Commons is an open-access, peer-reviewed educational resoruce for teachers.</description>
       
     </item>
     

@@ -8,6 +8,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/projects/sustainabilty/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/projects/deathbynumbers/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -19,11 +24,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/projects/heritagecities/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/projects/religiousecologies/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -49,6 +49,11 @@
   </url>
   <url>
     <loc>http://localhost:1313/projects/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/writing/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
