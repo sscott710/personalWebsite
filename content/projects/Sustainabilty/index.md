@@ -1,5 +1,5 @@
 ---
-title: "Sustainability"
+title: "SustainableDH"
 description: "sustainability work at chnm"
 weight: 1
 topics: ["Current", "Web"]
@@ -7,6 +7,8 @@ topics: ["Current", "Web"]
 <!--<img src="thumbnail.png">-->
 <strong>Project Description: </strong><br>
 In summer 2025, I joined the sustainability team at RRCHNM. The Center prioritizes sustainable development from a project's earliest planning stages. We work to maintain popular past websites on our servers to retain these as resources for the public, and archive deprecated projects. My responsibility was to add a search feature to our flattened websites. 
+
+In summer 2026, I returned to RRCHNM's sustainability team to assist with accessibility updates on legacy websites. Due to federal regulations, all websites needed to comply with WCAG 2.2 Level AA standards. Using Claude-assisted workflows, I audited and then improved the accessibility on past RRCHNM projects.
 
 Websites I worked on:
 <ul>
@@ -16,6 +18,9 @@ Websites I worked on:
 <li><a href="https://amboyna.org/" target="__blank">The Amboyna Conspiracy Trial</a></li>
 <li><a href="https://dohistory.org/" target="__blank">DoHistory</a></li>
 <li><a href="https://911digitalarchive.org/" target="__blank">The September 11 Digital Archive</a></li>
+<li><a href="https://mappingtheuniversity.rrchnm.org/" target="__blank">Mapping the University</a></li>
+<li><a href="https://earlyamericanelections.org/" target="__blank">Mapping Early American Elections</a></li>
+<li>and more!</li>
 </ul>
 
 <strong>Collaborators: </strong> 
