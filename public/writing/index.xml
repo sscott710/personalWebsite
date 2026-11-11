@@ -12,6 +12,16 @@
     <atom:link href="http://localhost:1313/writing/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Disruptive Reciprocity: A Review of The US Military and the Pacific Environment</title>
+      <link>http://localhost:1313/writing/ehnreview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>sscott35@gmu.edu (Savannah Scott)</author>
+      <guid>http://localhost:1313/writing/ehnreview/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Graduate Student Reflections: Sustainability Summer</title>
       <link>http://localhost:1313/writing/rrchnmsustainsummer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
