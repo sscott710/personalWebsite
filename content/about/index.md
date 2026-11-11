@@ -1,6 +1,8 @@
 # About Me
 I am a PhD student in History at George Mason University. Currently, I am a teaching assistant in the History Department, assisting with Introduction to Global History. Previously, as a graduate research assistant at the Roy Rosenzweig Center for History and New Media, I did web development and data visualization for data-driven and digital public history projects. My broad research interests are 20th century United States, war and society, and digital history. I am currently researching the development of the Army Outdoor Recreation Program, its relation to the transition to the All-Volunteer Force, and American environmental culture.
 
+I’ve consulted on digital public history projects, including an upcoming community oral history project, where I helped select a platform, designed and built the website, and planned for long-term sustainability. I also advise on software selection, web development, and community engagement, and I’m available for freelance web development on digital history and humanities projects. [Get in touch](mailto:sscott35@gmu.edu) to talk about your project.
+
 I am originally from Salisbury, MD, and received my BA in History from Bridgewater College. When not doing history, I enjoy golfing, reading (fiction!), and live music.  
 
 
@@ -10,4 +12,5 @@ I am originally from Salisbury, MD, and received my BA in History from Bridgewat
 - [Github](https://github.com/sscott710)
 
 ## Contact Me
+Interested in collaborating, or just talking DH or military history? Shoot me an email!
 - Email: [sscott35@gmu.edu](mailto:sscott35@gmu.edu)
